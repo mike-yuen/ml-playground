@@ -1,0 +1,21 @@
+# Virtual environment files
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+*.pid
+*.bak
+*.cache
+*.DS_Store
+
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
